@@ -1,0 +1,15 @@
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.deps.json
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.dll
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.pdb
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.dll
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.pdb
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.csproj.AssemblyReference.cache
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.AssemblyInfoInputs.cache
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.AssemblyInfo.cs
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.csproj.CoreCompileInputs.cache
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\CleanArc.B5F221E5.Up2Date
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.dll
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\refint\CleanArchWithCQRSandMediatr.Application.dll
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Application.pdb
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Application\obj\Debug\net8.0\ref\CleanArchWithCQRSandMediatr.Application.dll

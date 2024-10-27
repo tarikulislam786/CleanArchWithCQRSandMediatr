@@ -1,0 +1,12 @@
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\bin\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.deps.json
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\bin\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.dll
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\bin\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.pdb
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.csproj.AssemblyReference.cache
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.AssemblyInfoInputs.cache
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.AssemblyInfo.cs
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.csproj.CoreCompileInputs.cache
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.dll
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\refint\CleanArchWithCQRSandMediatr.Domain.dll
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\CleanArchWithCQRSandMediatr.Domain.pdb
+D:\CQRS-MEDIATR-BLAZOR PROJECT\project\CleanArchWithCQRSandMediatr\CleanArchWithCQRSandMediatr.Domain\obj\Debug\net8.0\ref\CleanArchWithCQRSandMediatr.Domain.dll

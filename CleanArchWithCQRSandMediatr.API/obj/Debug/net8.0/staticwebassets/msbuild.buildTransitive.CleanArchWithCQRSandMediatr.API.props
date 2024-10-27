@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CleanArchWithCQRSandMediatr.API.props" />
+</Project>
